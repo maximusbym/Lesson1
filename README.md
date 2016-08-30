@@ -1,5 +1,5 @@
 # Lesson1
-Lesson1 - networks &amp; local environment
+Lesson1 - networks &amp; local environment <a href="https://www.youtube.com/watch?v=WcEQ_zBXkE0">Ссылка на лекцию</a>
 
 ##XAMPP
 <p>
