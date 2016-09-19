@@ -21,7 +21,7 @@ Lesson1 - networks &amp; local environment <a href="https://youtu.be/pjFuAdDg5Ho
 </p>
 ```
 <Directory D://Projects/>
-    AllowOverride none
+    AllowOverride All
     Require all granted
 </Directory>
 ```
